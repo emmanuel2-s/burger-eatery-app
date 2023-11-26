@@ -1,5 +1,5 @@
 import React from 'react'
-import Google from '../assets/imgs/Google play - eng.png'
+// import Google from '../assets/imgs/Google play - eng.png'
 import appstore from '../assets/imgs/App Store - eng.png'
 import { FaFacebook, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa'
 import insta from '../assets/imgs/insta.png'
