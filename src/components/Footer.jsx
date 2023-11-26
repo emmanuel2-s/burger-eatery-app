@@ -1,5 +1,5 @@
 import React from 'react'
-import moogle from '../assets/play.png'
+import moogle from '../play.png'
 import appstore from '../imgs/App_Store.png'
 import { FaFacebook, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa'
 import insta from '../imgs/insta.png'
