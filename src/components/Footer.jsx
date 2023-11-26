@@ -1,5 +1,5 @@
 import React from 'react'
-import Google from '../imgs/Google_play.png'
+import google from '../imgs/google_play.png'
 import appstore from '../imgs/App_Store.png'
 import { FaFacebook, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa'
 import insta from '../imgs/insta.png'
@@ -13,7 +13,7 @@ const Footer = () => {
                     <h1 className='text-3xl sm:text-4xl lg:text-5xl px-2 font-bold'>Zamco<span className='font-bold text-orange-500 pl-1'>Eatery</span></h1>
 
                     <div className='flex items-center pt-8 '>
-                        <a href=''><img src={Google} alt='Download from Google playstore' className='' /></a>
+                        <a href=''><img src={google} alt='Download from Google playstore' className='' /></a>
                         <a href=''><img src={appstore} alt='Download from Google playstore' /></a>
                     </div>
                     <p className='text-xl font-bold pt-2 text-white'><strong>Email:</strong> zamcobesteatery@gmail.com</p>
