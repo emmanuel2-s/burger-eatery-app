@@ -1,5 +1,5 @@
 import React from 'react'
-import heroBg from '../assets/imgs/burger_bg.jpg'
+import heroBg from '../imgs/burger_bg.jpg'
 function Hero() {
     return (
         <div className='max-w-[1340px] mx-auto p-4'>

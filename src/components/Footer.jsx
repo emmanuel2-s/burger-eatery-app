@@ -1,9 +1,9 @@
 import React from 'react'
-import Google from '../../src/assets/imgs/Google play - eng.png'
-import appstore from '../assets/imgs/App Store - eng.png'
+import Google from '../imgs/Google play - eng.png'
+import appstore from '../imgs/App Store - eng.png'
 import { FaFacebook, FaInstagram, FaTiktok, FaTwitter } from 'react-icons/fa'
-import insta from '../assets/imgs/insta.png'
-import facebook from '../assets/imgs/facebook.png'
+import insta from '../imgs/insta.png'
+import facebook from '../imgs/facebook.png'
 
 const Footer = () => {
     return (
