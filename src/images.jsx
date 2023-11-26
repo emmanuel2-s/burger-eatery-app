@@ -24,7 +24,7 @@ import chick_3 from './imgs/chicken 3.jpg'
 import chick_4 from './imgs/chicken 4.jpg'
 
 //categories//
-import pizza_icon from './imgs/pizza icon.png'
+import pizza_icon from './imgs/pizza.png'
 import food_icon from './imgs/Mayor Fast.png'
 import chicken_bucket from './imgs/fried chicken.png'
 import badge from './imgs/badge_prize.png'
